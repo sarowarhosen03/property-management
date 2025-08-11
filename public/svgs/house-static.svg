@@ -1,0 +1,17 @@
+<svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg" class="hidden group-aria-selected:block">
+  <path fillRule="evenodd" clipRule="evenodd" d="M3.32617 23.5732L13.3303 14.9979L23.3345 23.5732" fill="#423B4E" />
+  <path d="M3.32617 23.5732L13.3303 14.9979L23.3345 23.5732H3.32617Z" stroke="#423B4E" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />
+  <path d="M21.9057 35.0063V25.0021L19.2798 25.0008L17.6173 25L5 25.0021V35L21.9057 35.0063Z" fill="#423B4E" />
+  <path fillRule="evenodd" clipRule="evenodd" d="M21.9057 25.0021V35.0063L19.2798 25.0008L21.9057 25.0021Z" fill="#423B4E" />
+  <path
+    d="M21.9057 35.0063V25.0021M21.9057 35.0063L5 35V25.0021L17.6173 25M21.9057 35.0063L19.2798 25.0008M17.6173 25V18.6661V14.9979H21.9057V25.0021M17.6173 25L19.2798 25.0008M21.9057 25.0021L19.2798 25.0008"
+    stroke="#423B4E" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />
+  <path fillRule="evenodd" clipRule="evenodd" d="M10.8291 35.0063V27.86H15.8312V35.0063" fill="#B5ABAF" />
+  <path d="M10.8291 35.0063V27.86H15.8312V35.0063" stroke="#423B4E" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />
+  <path d="M4.75488 22.3477V35.0063" stroke="#423B4E" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />
+  <path d="M36.6734 35.0063H3.32617" stroke="#423B4E" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />
+  <path d="M32.4929 30.0042V35.0062" stroke="#423B4E" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />
+  <rect x="28.3359" y="18.3326" width="8.3368" height="11.6715" rx="2.5" fill="#423B4E" stroke="#423B4E" strokeWidth="1.5" strokeLinecap="round"
+    strokeLinejoin="round" />
+  <ellipse cx="28.3367" cy="8.3285" rx="3.33472" ry="3.33472" fill="#423B4E" stroke="#423B4E" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />
+</svg>

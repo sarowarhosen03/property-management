@@ -1,0 +1,131 @@
+<svg
+width="40"
+height="40"
+viewBox="0 0 40 40"
+fill="none"
+xmlns="http://www.w3.org/2000/svg"
+>
+<path
+  fillRule="evenodd"
+  clipRule="evenodd"
+  d="M6.66016 19.3647V35.0063V19.3647Z"
+  fill="#423B4E"
+/>
+<path
+  d="M6.66016 19.3647V35.0063H33.3324V19.3647H6.66016Z"
+  fill="#423B4E"
+/>
+<path
+  fillRule="evenodd"
+  clipRule="evenodd"
+  d="M6.66016 19.3647V35.0063V19.3647Z"
+  stroke="#423B4E"
+  strokeWidth="1.5"
+  strokeLinecap="round"
+  strokeLinejoin="round"
+/>
+<path
+  d="M6.66016 19.3647V35.0063H33.3324V19.3647H6.66016Z"
+  stroke="#423B4E"
+  strokeWidth="1.5"
+  strokeLinecap="round"
+  strokeLinejoin="round"
+/>
+<path
+  fillRule="evenodd"
+  clipRule="evenodd"
+  d="M31.2541 20C33.3261 20 35.0057 18.3204 35.0057 16.2485V16.0367C35.0057 15.357 34.8208 14.6901 34.4705 14.1076L30.969 8.28014C30.3676 7.27774 29.2852 6.66346 28.1162 6.66113H11.8827C10.7114 6.66113 9.62588 7.2757 9.02321 8.28014L5.52175 14.1076C5.17376 14.6907 4.99105 15.3576 4.99318 16.0367V16.2485C4.99318 18.3204 6.67283 20 8.74476 20"
+  fill="#423B4E"
+/>
+<path
+  d="M31.2541 20V20C33.3261 20 35.0057 18.3204 35.0057 16.2485V16.0367C35.0057 15.357 34.8208 14.6901 34.4705 14.1076L30.969 8.28014C30.3676 7.27774 29.2852 6.66346 28.1162 6.66113H11.8827C10.7114 6.66113 9.62588 7.2757 9.02321 8.28014L5.52175 14.1076C5.17376 14.6907 4.99105 15.3576 4.99318 16.0367V16.2485C4.99318 18.3204 6.67283 20 8.74476 20V20"
+  stroke="#423B4E"
+  strokeWidth="2"
+  strokeLinecap="round"
+  strokeLinejoin="round"
+/>
+<path
+  d="M12.4967 16.2484C12.4967 18.3203 10.817 20 8.74512 20"
+  stroke="#AA9D9E"
+  strokeWidth="2"
+  strokeLinecap="round"
+  strokeLinejoin="round"
+/>
+<path
+  d="M19.9992 16.2484C19.9992 18.3203 18.3196 20 16.2477 20C14.1757 20 12.4961 18.3203 12.4961 16.2484"
+  stroke="#AA9D9E"
+  strokeWidth="2"
+  strokeLinecap="round"
+  strokeLinejoin="round"
+/>
+<path
+  d="M27.5031 16.2484C27.5031 18.3203 25.8235 20 23.7516 20C21.6796 20 20 18.3203 20 16.2484"
+  stroke="#AA9D9E"
+  strokeWidth="2"
+  strokeLinecap="round"
+  strokeLinejoin="round"
+/>
+<path
+  d="M31.2545 20C29.1826 20 27.5029 18.3203 27.5029 16.2484"
+  stroke="#AA9D9E"
+  strokeWidth="2"
+  strokeLinecap="round"
+  strokeLinejoin="round"
+/>
+<path
+  d="M33.3386 19.3682V35.0063"
+  stroke="#423B4E"
+  strokeWidth="2"
+  strokeLinecap="round"
+  strokeLinejoin="round"
+/>
+<rect
+  x="22.501"
+  y="25.0021"
+  width="6.66945"
+  height="5.00208"
+  rx="0.5"
+  fill="#AA9D9E"
+/>
+<path
+  fillRule="evenodd"
+  clipRule="evenodd"
+  d="M11.6631 35.0062V25.8358C11.6631 25.3753 12.0363 25.0021 12.4968 25.0021H16.6652C17.1256 25.0021 17.4988 25.3753 17.4988 25.8358V35.0062"
+  fill="#AA9D9E"
+/>
+<path
+  d="M34.8573 14.998H5.1416"
+  stroke="#423B4E"
+  strokeWidth="1.5"
+  strokeLinecap="round"
+  strokeLinejoin="round"
+/>
+<path
+  d="M12.4968 16.2485V14.998"
+  stroke="#AA9D9E"
+  strokeWidth="1.5"
+  strokeLinecap="round"
+  strokeLinejoin="round"
+/>
+<path
+  d="M19.9997 16.2485V14.998"
+  stroke="#AA9D9E"
+  strokeWidth="1.5"
+  strokeLinecap="round"
+  strokeLinejoin="round"
+/>
+<path
+  d="M27.5026 16.2485V14.998"
+  stroke="#AA9D9E"
+  strokeWidth="1.5"
+  strokeLinecap="round"
+  strokeLinejoin="round"
+/>
+<path
+  d="M36.6734 35.0063H3.32617"
+  stroke="#423B4E"
+  strokeWidth="1.5"
+  strokeLinecap="round"
+  strokeLinejoin="round"
+/>
+</svg>

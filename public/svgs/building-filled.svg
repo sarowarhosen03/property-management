@@ -1,0 +1,14 @@
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M3.9917 28.2878L15.9967 17.9976L28.0017 28.2878" fill="#FEFEFE"/>
+<path d="M3.9917 28.2878L15.9967 17.9976L28.0017 28.2878H3.9917Z" stroke="#FEFEFE" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M26.2869 42.0076V30.0026L23.1358 30.001L21.1407 30.0001L6 30.0026V42.0001L26.2869 42.0076Z" fill="#FEFEFE"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M26.2869 30.0026V42.0076L23.1358 30.001L26.2869 30.0026Z" fill="#FEFEFE"/>
+<path d="M26.2869 42.0076V30.0026M26.2869 42.0076L6 42.0001V30.0026L21.1407 30.0001M26.2869 42.0076L23.1358 30.001M21.1407 30.0001V22.3994V17.9976H26.2869V30.0026M21.1407 30.0001L23.1358 30.001M26.2869 30.0026L23.1358 30.001" stroke="#FEFEFE" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M12.9954 42.0075V33.4319H18.9979V42.0075" fill="#423B4E"/>
+<path d="M12.9954 42.0075V33.4319H18.9979V42.0075" stroke="#FEFEFE" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M5.7063 26.8171V42.0075" stroke="#FEFEFE" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M44.0084 42.0075H3.9917" stroke="#FEFEFE" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M38.9921 36.0049V42.0074" stroke="#FEFEFE" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="34.0042" y="21.9993" width="10.0042" height="14.0058" rx="2.5" fill="#FEFEFE" stroke="#FEFEFE" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<ellipse cx="34.0041" cy="9.9941" rx="4.00167" ry="4.00167" fill="#FEFEFE" stroke="#FEFEFE" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

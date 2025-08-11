@@ -1,0 +1,18 @@
+{
+  "files.autoSave": "afterDelay",
+  "editor.formatOnSave": true,
+  // "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "prettier.useTabs": true,
+  "prettier.tabWidth": 2,
+  "editor.indentSize": "tabSize",
+  "editor.useTabStops": true,
+  "editor.tabSize": 2,
+  "editor.codeActionsOnSave": [
+    "source.organizeImports",
+    "source.addMissingImports"
+  ],
+  "tabnine.experimentalAutoImports": true,
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "npm.packageManager": "auto",
+  "CodeGPT.apiKey": "Ollama"
+}
