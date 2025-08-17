@@ -1,22 +1,24 @@
-
 # Safe House - Real Estate Platform
 
 Safe House is a modern, feature-rich real estate platform built with Next.js and TypeScript. It allows users to browse, search, and manage property listings.
 
 **Live Demo:** [https://safehouse.am/en](https://safehouse.am/en)
 
----
 
-***Note:** This is a commercial project. The source code for the front-end is made public with the client's permission for demonstration purposes. The back-end repository is private. Therefore, this repository is for viewing only and cannot be run locally without access to the private back-end services.*
 
 ## Features
 
-*   **Property Listings:** View and manage property listings with detailed information.
-*   **Advanced Search:** Filter properties based on various criteria like price, location, and amenities.
-*   **User Authentication:** Secure user registration and login functionality.
-*   **Dashboard:** A user-friendly dashboard for managing properties and user profiles.
-*   **Internationalization:** Support for multiple languages.
-*   **Responsive Design:** A fully responsive layout that works on all devices.
+| Feature | Description |
+| :--- | :--- |
+| **Property Listings** | Browse through a comprehensive list of properties with high-quality images, detailed descriptions, and key information like price, size, and location. |
+| **Advanced Search & Filtering** | A powerful search functionality that allows users to filter properties by type, price range, number of rooms, amenities, and more. Results can be sorted for easier browsing. |
+| **Interactive Map View** | Visualize property locations on an interactive map, making it easy to understand the geography of available listings. |
+| **User Authentication** | Secure and easy-to-use authentication system for user registration and login, protecting user data and personalized settings. |
+| **Personalized Dashboard** | Registered users get access to a personal dashboard to manage their listings, saved searches, and profile information. |
+| **Property Management** | Users can add new properties, edit existing ones, and manage their availability through the intuitive dashboard. |
+| **Multi-language Support** | The platform is internationalized, offering content in multiple languages to cater to a diverse user base. |
+| **Responsive Design** | The application is fully responsive, providing an optimal viewing experience across a wide range of devices, from desktops to mobile phones. |
+| **Contact & Inquiries** | A built-in messaging system allows potential buyers to easily contact property owners or agents to ask questions or schedule viewings. |
 
 ## Tech Stack
 
@@ -38,26 +40,32 @@ To get a local copy up and running, follow these simple steps.
 
 ## Screenshots
 
-| Add Property | Dashboard |
-| :---: | :---: |
-| ![Add Property](preview/ad-1.png) | ![Dashboard](preview/dashboard.png) |
+### Home Page
+![Home Page](/preview/home.png)
 
-| Details Page | Edit User |
-| :---: | :---: |
-| ![Details Page](preview/details-page1.png) | ![Edit User](preview/edit-user.png) |
+### Property List
+![Property List](/preview/property-list.png)
 
-| Filter Page | Home Page |
-| :---: | :---: |
-| ![Filter Page](preview/filter-page.png) | ![Home Page](preview/home-page.png) |
+### Property Details
+![Property Details](/preview/details.png)
 
-| House List | Inbox |
-| :---: | :---: |
-| ![House List](preview/house-list.png) | ![Inbox](preview/inbox.png) |
+### Add Property
+![Add Property](/preview/add-property.png)
 
-| User List | User Profile |
-| :---: | :---: |
-| ![User List](preview/user-list.png) | ![User Profile](preview/user-profile.png) |
+### Dashboard
+![Dashboard](/preview/dashboard.png)
 
+### Inbox
+![Inbox](/preview/inbox.png)
 
+### Profile
+![Profile](/preview/profile.png)
 
+### Edit Profile
+![Edit Profile](/preview/profile-edit.png)
 
+### Users
+![Users](/preview/users.png)
+
+### Filter
+![Filter](/preview/filter.png)

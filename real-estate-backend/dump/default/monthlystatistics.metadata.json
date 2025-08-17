@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"},{"v":{"$numberInt":"2"},"key":{"year":{"$numberInt":"1"},"month":{"$numberInt":"1"}},"name":"year_1_month_1","background":true,"unique":true}],"uuid":"620a32836c744294a7679dc0c0ce754e","collectionName":"monthlystatistics","type":"collection"}

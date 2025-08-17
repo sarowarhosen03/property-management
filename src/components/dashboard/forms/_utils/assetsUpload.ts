@@ -20,6 +20,8 @@ export const assetsUploads = async (files: File[]) => {
     }
     throw new Error("Failed to upload");
   } catch (error) {
+    console.log(error);
+    
     throw new Error("Failed to upload");
   }
 };
