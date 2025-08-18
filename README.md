@@ -41,31 +41,31 @@ To get a local copy up and running, follow these simple steps.
 ## Screenshots
 
 ### Home Page
-![Home Page](/preview/home.png)
+![Home Page](/preview/home.webp)
 
 ### Property List
-![Property List](/preview/property-list.png)
+![Property List](/preview/property-list.webp)
 
 ### Property Details
-![Property Details](/preview/details.png)
+![Property Details](/preview/details.webp)
 
 ### Add Property
-![Add Property](/preview/add-property.png)
+![Add Property](/preview/add-property.webp)
 
 ### Dashboard
-![Dashboard](/preview/dashboard.png)
+![Dashboard](/preview/dashboard.webp)
 
 ### Inbox
-![Inbox](/preview/inbox.png)
+![Inbox](/preview/inbox.webp)
 
 ### Profile
-![Profile](/preview/profile.png)
+![Profile](/preview/profile.webp)
 
 ### Edit Profile
-![Edit Profile](/preview/profile-edit.png)
+![Edit Profile](/preview/profile-edit.webp)
 
 ### Users
-![Users](/preview/users.png)
+![Users](/preview/users.webp)
 
 ### Filter
-![Filter](/preview/filter.png)
+![Filter](/preview/filter.webp)
